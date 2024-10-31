@@ -1,29 +1,33 @@
-DATA OPERATIONS
+DATA OPERATIONS:
 Use Case - Learning how to perform arithmatic & modulus operations. It's widely used in scitific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these data structures.
 
 Library used - Numpy
 
 Codes Executed:
 
-Liner Regresstion
-Logistic Regresstion
-Euclidean Distance
-PCA
-K-Means Algorithm
-Naive Bayes Algorithm
-SVM
-DATA PROCESSING
+1.Liner Regresstion
+2.Logistic Regresstion
+3.Euclidean Distance
+4.PCA
+5.K-Means Algorithm
+6.Naive Bayes Algorithm
+7.SVM
+
+DATA PROCESSING:
+
 Use Case - It's used for manipulatinng, transforming and analysing data.
 
 Library used - Pandas
 
 Codes Executed:
 
-Reading a File(csv, xlx, etc.)
-Executing and Extracting the Headings
-Updating existing column names
-Data Cleaning
-DATA VISUALIZATION
+1.Reading a File(csv, xlx, etc.)
+2.Executing and Extracting the Headings
+3.Updating existing column names
+4.Data Cleaning
+
+DATA VISUALIZATION:
+
 Use Case - Used for visualizing the data for better understanding.
 
 Library Used - MatPlotLib
