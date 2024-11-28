@@ -1,3 +1,12 @@
+# FINAL PROJECT: DATAVISTA
+Dataset - BAKERY PRICES AND SALES
+
+Use Case - Analyzing sales data to identify top products, customer preferences, and sales trends, enabling data-driven business strategies.
+
+Libraries Used - Numpy, Pandas, MatPlotLib, Seaborn, Scikit-Learn
+
+Algorithm Used - Random Forest
+
 # DATA OPERATIONS
 
 Use Case - Learning how to perform arithmatic & modulus operations. It's widely used in scitific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these data structures.
